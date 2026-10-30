@@ -8,7 +8,7 @@ Home Assistant add-ons for the games and apps we use at home. Each add-on packag
 
 ## Install in Home Assistant
 
-1. Settings → Add-ons → Add-on store.
+1. Settings → Apps → App store (called "Add-ons" in older versions).
 2. ⋮ (top right) → Repositories → paste this repository's URL → Add.
 3. Find the add-on, Install, Start.
 4. Turn on "Show in sidebar" to open it from the tablet.
