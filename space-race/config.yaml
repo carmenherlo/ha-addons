@@ -1,0 +1,19 @@
+name: Space Race
+version: "0.1.0"
+slug: space_race
+description: Juego de tablero en español para 1 a 6 jugadores, en el navegador.
+url: https://github.com/carmenherlo/ha-addons/tree/main/space-race
+arch:
+  - amd64
+init: false
+startup: application
+boot: auto
+# Opened from HA's sidebar; no port is exposed outside HA.
+ingress: true
+ingress_port: 8000
+panel_icon: mdi:rocket-launch
+panel_title: Space Race
+# Avatars are copied by hand to /share/space-race/avatars (see DOCS.md).
+map:
+  - type: share
+    read_only: true
