@@ -1,5 +1,5 @@
 name: Space Race
-version: "0.1.1"
+version: "0.1.2"
 slug: space_race
 description: Juego de tablero en español para 1 a 6 jugadores, en el navegador.
 url: https://github.com/carmenherlo/ha-addons/tree/main/space-race

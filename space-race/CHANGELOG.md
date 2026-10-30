@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- Tilted rocket icon.
+
 ## 0.1.1
 
 - Icon and logo.
