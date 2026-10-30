@@ -8,3 +8,6 @@ Thumbs.db
 
 # Private: avatars never go to any repo
 avatars/
+
+# Personal working rules for Claude
+CLAUDE.md
