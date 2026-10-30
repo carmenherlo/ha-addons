@@ -1,0 +1,10 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Private: avatars never go to any repo
+avatars/
