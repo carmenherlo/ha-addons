@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+- Also on port 8100, for users who are not admins.
+
 ## 0.1.2
 
 - Tilted rocket icon.
