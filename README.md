@@ -1,18 +1,22 @@
 # Home Assistant add-ons
 
-Complementos (add-ons) de Home Assistant para los juegos y apps de casa.
+Home Assistant add-ons for the games and apps we use at home. Each add-on packages one app so it opens from HA's sidebar.
 
-| Add-on | Qué es |
+| Add-on | What it is |
 |---|---|
-| `space-race/` | Space Race, juego de tablero en español para 1–6 jugadores (en preparación) |
+| `space-race/` | Space Race, a Spanish board game for 1–6 players (in progress) |
 
-## Instalar en Home Assistant
+## Install in Home Assistant
 
-1. Ajustes → Complementos → Tienda de complementos.
-2. ⋮ (arriba a la derecha) → Repositorios → pegar la URL de este repositorio → Añadir.
-3. Buscar el add-on, Instalar, Iniciar.
-4. Activar "Mostrar en la barra lateral" para abrirlo desde la tablet.
+1. Settings → Add-ons → Add-on store.
+2. ⋮ (top right) → Repositories → paste this repository's URL → Add.
+3. Find the add-on, Install, Start.
+4. Turn on "Show in sidebar" to open it from the tablet.
 
-## Cómo está hecho
+You need an administrator user to add the repository and install add-ons.
 
-Este repositorio **solo empaqueta** las apps: cada carpeta tiene la descripción del add-on (`config.yaml`) y su `Dockerfile`. El código de cada app vive en su propio repositorio y no sabe nada de Home Assistant.
+## How it works
+
+This repository **only packages** the apps: each folder has the add-on's description (`config.yaml`) and its `Dockerfile`. Each app's code lives in its own repository and knows nothing about Home Assistant.
+
+To add a new app, create a folder for it next to `space-race/` and add a row to the table above.
