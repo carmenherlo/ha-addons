@@ -9,8 +9,8 @@ Thumbs.db
 # Private: avatars never go to any repo
 avatars/
 
-# Personal working rules for Claude
-CLAUDE.md
+# Private notes for Claude (home paths, addresses)
+CLAUDE.local.md
 
 # Local notes and files
 data/
