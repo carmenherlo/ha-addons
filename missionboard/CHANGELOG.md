@@ -3,6 +3,7 @@
 ## 0.2.0
 
 - In HA's sidebar (Ingress); port 8003 stays for non-admin users.
+- Icon and logo (Glowing Star from Fluent Emoji by Microsoft, MIT).
 
 ## 0.1.0
 

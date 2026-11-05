@@ -20,3 +20,7 @@ Para traer los datos de otra instalación de Missionboard:
 
 1. En la instalación antigua: **Configurar → Copia de seguridad → Descargar** (un archivo `.zip`).
 2. En este complemento: **Configurar → Copia de seguridad → Restaurar** y elige ese `.zip`.
+
+## Créditos
+
+Icono: Glowing Star de Fluent Emoji, de Microsoft (licencia MIT).

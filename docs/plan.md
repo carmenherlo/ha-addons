@@ -3,7 +3,7 @@
 ## Estado
 
 - **Space Race 0.1.3** funcionando en HA: barra lateral (Ingress) y puerto 8100 para usuarios no administradores.
-- **Missionboard 0.2.0** creado (`missionboard/`): barra lateral (Ingress) y puerto 8003. Probado con Docker en el PC. Sin icono/logo PNG todavía.
+- **Missionboard 0.2.0** creado (`missionboard/`): barra lateral (Ingress) y puerto 8003. Probado con Docker en el PC. Icono y logo provisionales (estrella de Fluent Emoji).
 - **Siguiente paso:** push, instalarlo en HA, abrirlo en la barra lateral y en la tablet (`:8003`) y restaurar la copia de seguridad de la familia.
 
 ## La idea
@@ -27,4 +27,4 @@ Un repositorio de add-ons de Home Assistant para tener nuestras apps y juegos en
 
 ## Decisiones pendientes
 
-- ¿Icono y logo para Missionboard?
+- Cambiar el icono y logo de Missionboard por dibujos propios.
