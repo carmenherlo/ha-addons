@@ -5,7 +5,7 @@ Home Assistant add-ons for the games and apps we use at home. Each add-on packag
 | Add-on | What it is |
 |---|---|
 | `space-race/` | Space Race, a Spanish board game for 1–6 players (in progress) |
-| `missionboard/` | Missionboard, a board of missions, routines and prizes for kids (own port, no sidebar) |
+| `missionboard/` | Missionboard, a board of missions, routines and prizes for kids |
 
 ## Install in Home Assistant
 

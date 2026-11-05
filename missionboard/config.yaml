@@ -1,5 +1,5 @@
 name: Missionboard
-version: "0.1.0"
+version: "0.2.0"
 slug: missionboard
 description: Tablero de misiones, rutinas y premios para niños, con voz en español.
 url: https://github.com/carmenherlo/ha-addons/tree/main/missionboard
@@ -8,11 +8,14 @@ arch:
 init: false
 startup: application
 boot: auto
-# No Ingress: the app uses absolute URLs (/api, /static), which break under
-# HA's ingress subpath. It is opened on its own port instead.
+# Opened from HA's sidebar (the app uses only relative URLs).
+ingress: true
+ingress_port: 8003
+# Also on its own port, for the tablet's browser and non-admin users.
 ports:
   8003/tcp: 8003
 ports_description:
-  8003/tcp: Missionboard en el navegador
-webui: http://[HOST]:[PORT:8003]/
+  8003/tcp: Missionboard directo, sin pasar por HA
+panel_icon: mdi:star-circle
+panel_title: Missionboard
 # App data lives in the add-on's /data, so HA backups include it.

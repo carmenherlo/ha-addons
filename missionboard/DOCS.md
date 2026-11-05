@@ -5,10 +5,8 @@ Tablero de misiones, rutinas y premios para niños, con voz en español. Pensado
 ## Uso
 
 1. Instala el complemento y pulsa **Iniciar**. La primera instalación tarda unos minutos (descarga unos 450 MB).
-2. Pulsa **Abrir interfaz web**, o abre en el navegador de la tablet `http://homeassistant.local:8003` (o la IP del mini PC con `:8003`).
-3. Para tenerlo en un panel de Home Assistant, añade una tarjeta **Página web** con esa dirección.
-
-No aparece en la barra lateral: la aplicación solo funciona en su propio puerto.
+2. Activa **Mostrar en la barra lateral** y ábrelo desde ahí.
+3. También funciona directo en el navegador de la tablet: `http://homeassistant.local:8003` (o la IP del mini PC con `:8003`). Así lo pueden usar los usuarios que no son administradores, por ejemplo con una tarjeta **Página web** en un panel.
 
 El código de padres por defecto es `1234`. Cámbialo en **Configurar**.
 
