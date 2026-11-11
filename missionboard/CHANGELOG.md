@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.0
+
+- Family missions (mission → task → step), each switched on per child; routines built on a mission's tasks.
+- Starts from scratch: data from before 0.3.0 is copied to `/data/backups/` and replaced by the examples (songs are kept).
+- Ajustes: seasons and their backgrounds, the children's home and the route as a turning wheel.
+- Times always in 24 hours; stars can be given to a child from the parents' zone.
+
 ## 0.2.0
 
 - In HA's sidebar (Ingress); port 8003 stays for non-admin users.
