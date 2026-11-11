@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+- With four children or more, the "Zona de padres" button could not be tapped; they now fit in one row.
+
 ## 0.4.0
 
 - The family's own avatars: uploaded in Configurar → Avatares (PNG or WebP), with any ring colour. Kept in `/data/avatars/` and in the app's backup.
