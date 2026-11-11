@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.0
+
+- The family's own avatars: uploaded in Configurar → Avatares (PNG or WebP), with any ring colour. Kept in `/data/avatars/` and in the app's backup.
+
 ## 0.3.0
 
 - Family missions (mission → task → step), each switched on per child; routines built on a mission's tasks.
