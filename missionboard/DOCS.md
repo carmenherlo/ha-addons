@@ -2,6 +2,30 @@
 
 Tablero de misiones, rutinas y premios para niños, con voz en español. Pensado para una tablet a pantalla completa.
 
+![El inicio: cada niño con su avatar](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/home.webp)
+
+## Cómo se ve
+
+**La ruta del niño:** sus misiones en una rueda.
+
+![La ruta del niño](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/route.webp)
+
+**Una misión:** cada tarea se marca con un toque; las pistas recuerdan lo que incluye.
+
+![Una misión](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/mission.webp)
+
+**Una rutina en marcha:** el reloj con el tramo de cada parte, lo que toca ahora y los niños.
+
+![Una rutina en marcha](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/routine.webp)
+
+**El premio del día:** la ruleta, al completar todas las misiones.
+
+![El premio del día](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/prize.webp)
+
+**Zona de padres:** todo se configura desde la propia app.
+
+![Editar una misión](https://raw.githubusercontent.com/carmenherlo/missionboard/main/screenshots/parents-mission.webp)
+
 ## Uso
 
 1. Instala el complemento y pulsa **Iniciar**. La primera instalación tarda unos minutos (descarga unos 450 MB).
