@@ -36,6 +36,10 @@ El código de padres por defecto es `1234`. Cámbialo en **Configurar**.
 
 Si la voz no se oye al principio, toca la pantalla una vez: algunos navegadores no dejan sonar nada hasta que se toca.
 
+## Avisos de la tienda en el móvil
+
+Cuando un niño compra algo en la tienda, el pedido llega a los móviles que tengan la app de Home Assistant, con botones: «Hoy», «Mañana» y «Ya se lo di». Si llega el día y no se lo has dado, te lo recuerda. Los móviles se eligen en la app, en Configurar → Tienda → Avisar al móvil. Para ello el complemento pide acceso a la API de Home Assistant.
+
 ## Datos y copias de seguridad
 
 Todos los datos se guardan dentro del complemento, así que las copias de seguridad de Home Assistant los incluyen.

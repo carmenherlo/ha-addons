@@ -1,5 +1,5 @@
 name: Missionboard
-version: "0.4.1"
+version: "0.5.0"
 slug: missionboard
 description: Tablero de misiones, rutinas y premios para niños, con voz en español.
 url: https://github.com/carmenherlo/ha-addons/tree/main/missionboard
@@ -18,4 +18,7 @@ ports_description:
   8003/tcp: Missionboard directo, sin pasar por HA
 panel_icon: mdi:star-circle
 panel_title: Missionboard
+# The shop tells the parents' phones of each order (notify.mobile_app_*) and hears
+# their buttons: the Supervisor gives the add-on a token for HA's API.
+homeassistant_api: true
 # App data lives in the add-on's /data, so HA backups include it.

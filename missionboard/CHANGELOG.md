@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.0
+
+- The shop as orders on their way: the child sees a truck and how many nights are left, and the parcel arriving when a parent hands it over.
+- Each order reaches the parents' phones (Home Assistant companion app) with buttons: "Hoy", "Mañana", "Ya se lo di". Phones chosen in Configurar → Tienda. The add-on now asks for access to Home Assistant's API.
+
 ## 0.4.1
 
 - With four children or more, the "Zona de padres" button could not be tapped; they now fit in one row.
