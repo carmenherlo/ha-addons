@@ -38,7 +38,7 @@ Si la voz no se oye al principio, toca la pantalla una vez: algunos navegadores 
 
 ## Avisos de la tienda en el móvil
 
-Cuando un niño compra algo en la tienda, el pedido llega a los móviles que tengan la app de Home Assistant, con botones: «Hoy», «Mañana» y «Entregado». Si llega el día y no se lo has dado, te lo recuerda. Los móviles se eligen en la app, en Configurar → Tienda → Avisar al móvil. Para ello el complemento pide acceso a la API de Home Assistant.
+Cuando un niño compra algo en la tienda, el pedido llega a los móviles que tengan la app de Home Assistant, con botones: «Hoy», «Mañana» y «Entregado». Si llega el día y no se lo has dado, te lo recuerda. Los móviles se eligen en la zona de padres, en **Avisos al móvil** (con un botón para mandar un aviso de prueba); en **Tienda → Avisar al móvil** se encienden o apagan los avisos de los pedidos y la hora del recordatorio. Para ello el complemento pide acceso a la API de Home Assistant.
 
 Si usas la versión *minimal* de la app de Home Assistant (la que no usa los servicios de Google), los avisos solo llegan cuando el móvil puede conectar con tu Home Assistant. Para recibirlos también fuera de casa, en la app ve a **Ajustes → App complementaria → Conexión persistente** y elige **Siempre** (gasta algo más de batería).
 
